@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there 👋 I'm Sudo!  
 
-<!--
-**Itsme-sudo/Itsme-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 **About Me**
 
-Here are some ideas to get you started:
+🔭 I’m currently studying in **Guru nanak dev engineering college**  
+💬 Ask me about **Web Development**  
+📫 How to reach me: **Twitter (X) & LinkedIn & Instagram**  
+😄 Pronouns: **He/Him**  
+⚡ Fun fact: If I’m not coding, I’m probably playing games with my friends 🎮  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://www.instagram.com/santoshms1" target="_blank">
+    <img src=" " />
+  </a>
+  <a href="https://www.linkedin.com/in/" target="_blank">
+    <img src=" " />
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src=" " />
+  </a>
+</p>
