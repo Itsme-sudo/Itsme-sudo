@@ -14,10 +14,10 @@
 
 <p align="left">
   <a href="https://www.instagram.com/santoshms1" target="_blank">
-    <img src=" " />
+    <img src=" https://www.flaticon.com/free-icon/instagram_174855" />
   </a>
   <a href="https://www.linkedin.com/in/santosh-mahto-9a4066393" target="_blank">
-    <img src="https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav " />
+    <img src="  " />
   </a>
   <a href="https://twitter.com/" target="_blank">
     <img src=" " />
