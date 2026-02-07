@@ -13,9 +13,9 @@
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://www.instagram.com/santoshms1" target="_blank">
-    <img src=" https://www.flaticon.com/free-icon/instagram_174855" />
-  </a>
+  <button> </button><a href="https://www.instagram.com/santoshms1" target="_blank">
+    
+  </a></button>
   <a href="https://www.linkedin.com/in/santosh-mahto-9a4066393" target="_blank">
     <img src="  " />
   </a>
