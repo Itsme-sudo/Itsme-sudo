@@ -4,7 +4,7 @@
 
 🔭 I’m currently studying in **Guru nanak dev engineering college**  
 💬 Ask me about **Web Development**  
-📫 How to reach me: **Twitter (X) & LinkedIn & Instagram**  
+📫 How to reach me:<a href="https://itsme-sudo.github.io/Portfolio-/#contact">**Github & LinkedIn & Instagram** </a>
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: If I’m not coding, I’m probably playing games with my friends 🎮  
 
