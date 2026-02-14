@@ -14,7 +14,8 @@
 <center>
 <p align="center">
   <a href="https://www.instagram.com/santoshms1" target="_blank">
-    <img height="100px" width="150px" href="Instagram.png"> Insta
+    <img height="100px" width="150px" src="Instagram.png">
+    <p>Insta</p>
   </a>
   <a href="https://www.linkedin.com/in/santosh-mahto-9a4066393" target="_blank">
     <img height="100px" width="150px" src="Linkedin.png" />Linkedin
