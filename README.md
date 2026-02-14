@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/Rishabh2804/Rishabh2804/master/Resources/wave.gif" 
          alt="Waving hand animated gif"         
          width="40"/>
-   I'm <b>Santosh Mahto</b>
+   My name is <b>Santosh Mahto</b>
 </h1> 
 
 <h1 align="center"> 
@@ -22,7 +22,7 @@
 
 🔭 I’m currently studying in **Guru nanak dev engineering college**  
 💬 Ask me about **Web Development**  
-📫 How to reach me:<a href="https://itsme-sudo.github.io/Portfolio-/#contact">**Github & LinkedIn & Instagram & Email** </a>
+📫 How to reach me:<a href="https://itsme-sudo.github.io/Portfolio-/#contact">**Github & LinkedIn & Instagram & Email** </a><br><br>
 😄 Pronouns: **He/Him**  
 ⚡ Fun fact: If I’m not coding, I’m probably playing games with my friends 🎮  
 
