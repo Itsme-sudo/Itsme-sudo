@@ -11,15 +11,16 @@
 ---
 
 ## 🌐 Socials
-
-<p align="left">
-  <button> </button><a href="https://www.instagram.com/santoshms1" target="_blank">
-    
-  </a></button>
+<center>
+<p align="center">
+  <a href="https://www.instagram.com/santoshms1" target="_blank">
+    <img height="100px" width="150px" href="Instagram.png"> Insta
+  </a>
   <a href="https://www.linkedin.com/in/santosh-mahto-9a4066393" target="_blank">
-    <img height="100px" width="150px" src="Linkedin.png" />
+    <img height="100px" width="150px" src="Linkedin.png" />Linkedin
   </a>
   <a href="https://itsme-sudo.github.io/Portfolio-/" target="_blank">
-    <img height="100px" width="150px" src="Profile.png" />
+    <img height="100px" width="150px" src="Profile.png" />Profile 
   </a>
 </p>
+</center>
