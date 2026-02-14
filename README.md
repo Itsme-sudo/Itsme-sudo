@@ -19,7 +19,7 @@
   <a href="https://www.linkedin.com/in/santosh-mahto-9a4066393" target="_blank">
     <img src="  " />
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://itsme-sudo.github.io/Portfolio-/" target="_blank">
     <img src=" " />
   </a>
 </p>
