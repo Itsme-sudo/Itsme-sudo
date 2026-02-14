@@ -17,7 +17,7 @@
     
   </a></button>
   <a href="https://www.linkedin.com/in/santosh-mahto-9a4066393" target="_blank">
-    <img src="Linkedin.png" />
+    <img height="10px" width="15px" src="Linkedin.png" />
   </a>
   <a href="https://itsme-sudo.github.io/Portfolio-/" target="_blank">
     <img src="Profile.png" />
